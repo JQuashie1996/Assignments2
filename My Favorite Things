@@ -1,0 +1,35 @@
+<html>
+<h1>
+These are my favorite things
+</h1>
+<a href="#My Movies">  My Movies</a><br/>
+<a href="#My Foods">  My Foods</a><br/>
+<a href="#My Shows">  My Shows</a><br/>
+<a href="#My Music">  My Music</a><br/>
+
+<h2 id="My Movies"> My Movies</h2>
+<ol>
+<li>Queen of the Damned</li>
+<li>Like Mike</li>
+<li>You Got Served</li>
+</ol>
+<h2 id="My Foods"> My Foods</h2>
+<ol>
+<li>Rice and Beans</li>
+<li>Platanos</li>
+<li>Fried Fish</li>
+</ol>
+<h2 id="My Shows"> My Shows</h2>
+<ol>
+<li>Stranger Things</li>
+<li>New York Undercover</li>
+<li>Grown-ish</li>
+</ol>
+<h2 id="My Music"> My Music</h2>
+<ol>
+<li>Hip Hop</li>
+<li>Bachata</li>
+<li>Salsa</li>
+</ol>
+
+<html>

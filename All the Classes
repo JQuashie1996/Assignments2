@@ -1,0 +1,88 @@
+<html>
+  <h1>
+  <center>Jordan's Spring 18 Schedule </center>
+  </h1>
+  <table width="400" cellpadding="10" cellspacing="10" border="2" bgcolor="#efefef">
+    <tr>
+      <th></th>
+      <th scope="col">Monday</th>
+      <th scope="col">Tuesday</th>
+      <th scope="col">Wednesday</th>
+      <th scope="col">Thursday</th>
+
+      <tr>
+        <th scope="row">9am</th>
+        <td></td> &nbsp;
+        <td rowspan="2">
+          Intro to Data 12094 Kamal Agarwal, 3 credits</td>
+        <td></td> &nbsp;
+        <td rowspan="2">Intro to Data 12094 Kamal Agarwal, 3 credits</td>
+      </tr>
+      <tr>
+        <th scope="row">10am</th>
+      </tr>
+      <tr>
+        <th scope="row">11am</th>
+        <td rowspan="2">Fiance 11956 Paul Choi, 3 credits</td>
+        <td></td> &nbsp;
+        <td rowspan="2">Fiance 11956 Paul Choi, 3 credits</td>
+
+      </tr>
+      <tr>
+
+        <th scope="row">12pm</th>
+
+
+
+        <tr>
+          <th scope="row">1pm</th>
+          <td rowspan="2">BLAW 11937 Samuel S. Paschall, 3 credits</td>
+          <td></td> &nbsp;
+          <td rowspan="2">BLAW 11937 Samuel S. Paschall, 3 credits</td>
+        </tr>
+        <tr>
+          <th scope="row">2pm</th>
+          <td rowspan="2">
+            POM 17912 Mohammad Quasem, 3 credits</td>
+          <td rowspan="2">
+            POM 17912 Mohammad Quasem, 3 credits</td>
+        </tr>
+        <tr>
+          <th scope="row">3pm</th>
+          <td rowspan="2">Web Authoring 16537 Alton J. Henley, 3 credits</td>
+
+          <td rowspan="2">Web Authoring 16537 Alton J. Henley, 3 credits</td>
+
+        </tr>
+        <tr>
+          <th scope="row">4pm</th>
+          <td rowspan="1">Systems Analysis Design 16379 Daniel N. Owunwanne, 3 credits</td>
+          <td rowspan="1">Systems Analysis Design 16379 Daniel N. Owunwanne, 3 credits</td>
+        </tr>
+        <tr>
+          <th scope="row">5pm</th>
+          <td></td> &nbsp;
+          <td rowspan="2">
+            Honors Seminar 13368 Kanika A, Mcgee, 1 credit</td>
+          <td></td> &nbsp;
+          <td rowspan="2">
+            Honors Seminar 13368 Kanika A, Mcgee, 1 credit</td>
+        </tr>
+        <tr>
+          <th scope="row">6pm</th>
+        </tr>
+
+  </table>
+
+</html>
+
+css
+
+table {
+  border-collapse: separate;
+  empty-cells: hide;
+}
+
+td {
+  word-wrap: break-word
+}

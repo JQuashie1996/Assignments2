@@ -2,7 +2,6 @@
 <style>
 h1 {
   text-align: center;
-  color: Red
 }
 
 h2 {
@@ -28,13 +27,14 @@ p {
   display: block;
 }
 </style>
+  <h3>
+    <center> <a href="#Objectives">Objectives</a>&nbsp; - <a href="#Experience">Experience</a>&nbsp; - <a href="#Education">Education</a> &nbsp; - <a href="#Skills">Skills</a> </center>
+  </h3>
   <h1>
     Jordan R. Quashie
   </h1>
 
-  <h3>
-    <center> <a href="#Objectives">Objectives</a>&nbsp; - <a href="#Experience">Experience</a>&nbsp; - <a href="#Education">Education</a> &nbsp; - <a href="#Skills">Skills</a> </center>
-  </h3>
+  
 
 
   <h2 id="Objectives"> Objectives</h2>

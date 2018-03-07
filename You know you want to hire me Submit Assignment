@@ -1,0 +1,18 @@
+<center><form>
+<fieldset><legend>Company Information</legend> 
+<label>Company Name:<br />
+<input type="text" name="name"></label> <br />
+<label>Position:<br /> 
+<input type="text" name="position"></label> <br />
+<label>Location:<br />
+<input type="text" name="location"></label><br />
+<label>Vation Days:<br />
+<input type="number" name="vacation"></label><br />
+<label>Pay/hr:<br />
+<input type="number" name="pay"></label><br />
+
+
+<form action="http://eg.com/email.php"> <p>Enter Password:</p> <input type="password" name="password" /> <input type="submit"        value="Submit" /></form>
+</fieldset>
+
+</form></center>

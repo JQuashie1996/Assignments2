@@ -1,0 +1,73 @@
+
+
+<html>
+<h1>
+My Favorite Album Covers by Genre
+</h1>
+<a href="#Rap">  Rap</a>&nbsp; <a href="#Bachata">  Bachata</a>&nbsp;<a href="#R&B"> R&B</a><br/>
+
+
+<h2 id="Rap"> Rap</h2>
+<ol>
+<li><img src="https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fbb498d327c020c240c2489256f22c120.1000x1000x1.jpg"  alt="Cozy Tapes Vol.1 "title="Cozy Tapes Vol.1 x ASAP Mob"
+ width="450"     
+height="450" 
+ /> 
+</li>
+<li>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/DJKhaledMajorKeyCover.jpg/220px-DJKhaledMajorKeyCover.jpg"  alt="Major Key"title="Major Key x DJ Khaled"
+ width="450"     
+height="450" 
+/> 
+</li>
+<li>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TheBiggerArtist.jpg/220px-TheBiggerArtist.jpg"  alt="The Bigger Artist"title="The Bigger Artist x A Boogie Wit Da Hoodie"
+ width="450"     
+height="450" 
+ /> 
+</li>
+</ol>
+<h2 id="Bachata"> Bachata</h2>
+<ol>
+<li><img src="https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/dd/3c/31/dd3c31af-0bf4-71e9-87e0-d4464433eb0c/190374237703.jpg/1200x630bb.jpg"  alt="Aventura"title="Self Titled"
+ width="450"     
+height="450" 
+/> 
+</li>
+<li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Mi_Niña_Bonita.jpg/220px-Mi_Niña_Bonita.jpg"  alt="Mi Nina Bonita"title="Mi Nina Bonita x Chico"
+ width="450"     
+height="450" 
+ /> 
+</li>
+<li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Xtremegroup.jpg/220px-Xtremegroup.jpg"  alt="Xtreme"title="Xtreme Self Titled"
+ width="450"     
+height="450" 
+ /> 
+</li>
+</ol>
+<h2 id="R&B"> R&B</h2>
+<ol>
+<li><img src="http://youknowigotsoul.com/wp-content/uploads/2017/12/Jesse-Boykins-Bartholomew.jpg"  alt="Bartholomew"title="Barholomew x Jesse Boykins III"
+ width="450"     
+height="450" 
+ /> 
+</li>
+<li>N<img src="https://i0.wp.com/defpen.com/wp-content/uploads/2016/08/Ty-Dolla-ign-Campaign-Album-Cover.jpg?w=1140"  alt="Campaign"title="Campaign x Ty Dolla $ign"
+ width="450"     
+height="450" 
+/> 
+</li>
+<li><img src="https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fb492c396ed201e8d9dc0d0a27b24442b.1000x1000x1.jpg"  alt="Exis"title="Exis x Roy Woods"
+ width="450"     
+height="450" 
+ /> 
+</li>
+</ol>
+
+
+<html>
+
+
+
+
+

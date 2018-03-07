@@ -1,0 +1,81 @@
+<html>
+<style>
+h1 {
+  text-align: center;
+  color: Red
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+  background-color: grey;
+}
+
+body {
+  text-align: Left;
+}
+
+#Jobtitle {
+  width: 10px;
+}
+
+#Job {
+  display: block;
+}
+
+p {
+  display: block;
+}
+</style>
+  <h1>
+    Jordan R. Quashie
+  </h1>
+
+  <h3>
+    <center> <a href="#Objectives">Objectives</a>&nbsp; - <a href="#Experience">Experience</a>&nbsp; - <a href="#Education">Education</a> &nbsp; - <a href="#Skills">Skills</a> </center>
+  </h3>
+
+
+  <h2 id="Objectives"> Objectives</h2>
+
+  <Body>
+    <ol>
+      <li>Achieve Academic Exellence</li>
+      <li>Attain a fulfulling job</li>
+      <li>Graduate on time</li>
+    </ol>
+  </Body>
+
+  <h2 id="Experience"> Experience</h2>
+  <p>
+    <B id="JobTitle">BCBGMAXAZRIA</B>&nbsp;
+    <B id="Job" span style="float:right;"> August 2017 - Present </B>
+    <ol>
+      <li> Built an Equipment and Connections database for an AT&T datacenter</li>
+      <li>Gained experience in a corporate setting</li>
+      <li>Performed IT support and User creation</li>
+      <li>Worked closely with Inventory and Equipment installers</li>
+      <li>Built Virtual Machines for new hires</li>
+      <li>Designed floor plans for datacenters</li>
+      <li>Installed and setup a wide range of servers and equipment
+      </li>
+    </ol>
+  </p>
+
+  <h2 id="Education"> Education</h2>
+  <p>
+    Howard University, Washington, D.C. <br/> Major: Information Systems<br/> GPA: 3.55 Cumulative <br/> Expected Date of Graduation: 2019 <br/> Member of SBEL Honors Program<br/>
+
+  </p>
+  <h2 id="Skills"> Skills </h2>
+  <ol>
+    <li>Microsoft Access Database Analysis</li>
+    <li>Virtual Machine Customization</li>
+    <li>Microsoft Visio Creation</li>
+    <li> Floor Planning</li>
+    <li>Linux Computer Setup</li>
+    <li>Server Configuration and Installation</li>
+  </ol>
+
+</html>
+

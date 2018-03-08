@@ -1,0 +1,106 @@
+<html>
+<style>
+
+#header {
+  line-height: 200px;
+}
+
+#header img {
+  vertical-align: middle;
+}
+
+body {
+  text-align: Left;
+}
+
+#Jobtitle {
+  font-family: Calibri Light;
+  display: block;
+}
+
+#Jobtitle2,
+#Jobtitle3 {
+  text-align: left;
+  font-family: Calibri Light;
+}
+
+#School {
+  font-family: Calibri Light;
+}
+sub,p,b {
+  font-family: Calibri;
+}
+
+
+
+</style>
+
+  <h1 id="header">
+
+    Jordan R. Quashie
+
+
+    <img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAu_AAAAJDgyZjU1OGIzLWY5YWEtNDhjMi04ODBjLWE1OTMyYWFlNGU5Yg.jpg" alt="Linkedin" title="Jordan Quashie" width="250" height="250" /> </h1>
+  <hr/>
+  <p>
+    <center> Takoma Park, MD 20912 | 201-565-5472 | <a href="mailto:jordan.quashie@bison.howard.edu">jordan.quashie@howard.edu</a> | <a href="www.linkedin.com/in/jordan-quashie">LinkedIn URL</a></center>
+  </p>
+  <h2>
+
+    Entry-Level Help-Desk Technician</h2>
+  <br/>
+  <br/>
+  
+
+  <h2 id="Education"> Education</h2>
+
+  <Body>
+    <p id="School">
+      XYZ UNIVERSITY, Sometown, MA | 108/120 Credits Earned</p>
+    <sub id="Status">
+Pursuing a B.S. in Computer Information Systems l GPA: 3.7/4.0
+</sub>
+  </Body>
+
+  <h2 id="Experience"> Experience</h2>
+  <p id="Jobtitle">
+    Help Desk Analyst (2016 to Present) | ABC Company, Sometown, MA</p>
+  <p>
+    <sub>Handle technical troubleshooting within an enterprise environment, including system crashes, slow-downs and data recoveries. Engage and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected Contributions:</sub>
+    <br/>
+    <ul>
+      <li> Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and $5K in annual savings.</li>
+
+      <li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and 100% on all calls (outperforming average of 90%).</li>
+
+      <li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.
+      </li>
+    </ul>
+    <p id="Jobtitle2">
+      Student Help Desk Technician (2015 to 2016) | XYZ UNIVERSITY, Sometown, MA</p>
+
+    <sub>Provide networking/desktop support and perform mainframe and account-maintenance tasks. Earned commendations for teamwork, flexibility and work excellence in providing IT support to students and faculty.</sub>
+
+    <p id="Jobtitle3">Sales Representative (2015 to 2016) | ABC Retail Company, Sometown, MA</p>
+    <sub> Leveraged strengths in persuasive communications and consultative sales to become a top sales performer for both retailers (including top 10 rankings out of a 100-member sales force).<br/></sub>
+
+
+
+    <h2 id="Technology Summary"> Technology Summary</h2>
+  
+        <p><b> Certifications</b><br/> CompTIA A+, HDI-Support Center Analyst (HDI-SCA)<br/>
+      <br/>
+
+      <b>Systems</b><br/> CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell NetWare, Mac OS X, Mobile
+      <br/>
+      <br/>
+      <b>Databases</b><br/> Oracle, Access, Relational Databases
+      <br/>
+      <br/>
+      <b>Languages</b><br/> Visual Basic, SQL, HTML, ASP, CSS, C++, CGI, Perl, JavaScript
+      <br/>
+      <br/>
+      <b>Software</b><br/> MS Project, MS Visio, MS Office
+    </p>
+
+</html>

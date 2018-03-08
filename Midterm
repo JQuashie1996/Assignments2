@@ -1,6 +1,7 @@
 <html>
 <style>
 
+
 #header {
   line-height: 200px;
 }
@@ -24,14 +25,12 @@ body {
   font-family: Calibri Light;
 }
 
-#School {
+#School,li {
   font-family: Calibri Light;
 }
-sub,p,b {
+sub,p,b, h2 {
   font-family: Calibri;
 }
-
-
 
 </style>
 
